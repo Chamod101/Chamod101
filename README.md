@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chamoddilusha_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chamoddilusha_9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chamod dilushanka perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamod dilushanka perera" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/chamod dilushanka perera](https://www.linkedin.com/in/chamod-dilushanka-perera-a51b40203/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamod dilushanka perera" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/chamod-dilushanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chamod-dilushanka" height="30" width="40" /></a>
 <a href="https://kaggle.com/chamod dilushanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chamod dilushanka" height="30" width="40" /></a>
 <a href="https://fb.com/chamod dilushanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamod dilushanka" height="30" width="40" /></a>
